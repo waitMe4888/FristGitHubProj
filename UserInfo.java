@@ -29,14 +29,14 @@ public class UserInfo {
     public void setPassword(String password) {
         this.password = password;
     }
-    @Override
+    /*@Override
     public String toString() {
         return "UserInfo{" +
                 "id=" + id +
                 ", username='" + username + '\'' +
                 ", password='" + password + '\'' +
                 '}';
-    }
+    }*/
 
 
 }
